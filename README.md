@@ -1,4 +1,4 @@
-### Machine Learning - Projeto de Classificação Binária.
+### Projeto de Machine Learning Classificação Binária.
 ### Pergunta: A pessoa irá ou não iniciar um tratamento para saúde mental?
 
 ### Acessar o Projeto
