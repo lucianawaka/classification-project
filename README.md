@@ -3,9 +3,8 @@
 
 ### Acessar o Projeto: [Mental Health Project](https://mental-health-ti.herokuapp.com/)
 
-### Executar projeto no Docker
-#### Subir o container
-sudo docker-compose -f docker-compose.yml up  -d --build --force-recreate --no-deps
+### Executar projeto no Docker:
+docker-compose -f docker-compose.yml up  -d --build --force-recreate --no-deps
 
 #### Versão 1.1 21/11/2022
 
