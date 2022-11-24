@@ -35,12 +35,12 @@ def homepage():
 
                 Link: [Fonte de dados do Kanggle](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey?resource=download&select=survey.csv)
 
-                Versão 2.0 - 21/11/2022          
+                Versão 3.0 - 24/11/2022          
                 
                 """)
     
 def previsao():
-    Modelo = joblib.load('model/RandomForestClassifier_v1.pkl')
+    Modelo = joblib.load('model/model.pkl')
 
     st.title("Previsão se a pessoa iria fazer um tratamento de saúde mental:")
     st.markdown("Responda o questionário e envie os dados para realizar a previsão.")
