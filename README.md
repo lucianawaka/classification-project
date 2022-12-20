@@ -1,7 +1,7 @@
 ### Projeto de Machine Learning Classificação Binária.
 ### Pergunta: A pessoa irá ou não iniciar um tratamento para saúde mental?
 
-### Acessar o Projeto: [Mental Health Project](https://mental-health-ti.herokuapp.com/)
+### Acessar o Projeto: [Mental Health Project](https://lucianawaka-classification-project-app-ajkss6.streamlit.app/)
 
 ### Executar projeto no Docker:
 docker-compose -f docker-compose.yml up  -d --build --force-recreate --no-deps
